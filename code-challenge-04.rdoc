@@ -1,0 +1,5 @@
+= code-challenge-04
+
+Generate this with
+    code-challenge-04 rdoc
+After you have described your command line interface
